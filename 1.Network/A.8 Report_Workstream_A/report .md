@@ -137,13 +137,12 @@ As a financial services entity, Meridian FinServe's compromise of its Domain Con
 ---
 
 ## 9. Appendix / References
-
-- [`Triage/triage-wireshark.md`](./A.2 Triage/1.triage-wireshark.md) — GUI-based baseline triage (6 sections, 12 evidence images)
-- [`Triage/triage-tshark.md`](./Triage/triage-tshark.md) — CLI triage with 21 reference commands (19 evidence images)
-- [`Hypotheses.md`](./Hypotheses.md) — Hypothesis-driven deep dive (A.3); source of all timeline/evidence data above
-- [`iocs.csv`](./iocs.csv) — Full machine-readable IOC list
-- [`architecture/before.svg`](./architecture/before.svg) / [`architecture/after.svg`](./architecture/after.svg) — Network architecture diagrams
-- Evidence screenshots: `./Triage/Evidences/`
+- [`Triage/1.triage-wireshark.md`](./A.2%20Triage/1.triage-wireshark.md) — GUI-based baseline triage (6 sections, 12 evidence images)
+- [`Triage/2.triage-tshark.md`](./A.2%20Triage/2.%20triage-tshark.md) — CLI triage with 21 reference commands (19 evidence images)
+- [`Hypotheses.md`](./A.3%20Hypothesis-Driven%20Deep%20Dive/Hypotheses.md) — Hypothesis-driven deep dive (A.3); source of all timeline/evidence data above
+- [`iocs.csv`](./A.4%20Indicator%20Extraction/iocs.csv) — Full machine-readable IOC list
+- [`architecture/1.before.svg`](./A.5%20Architecture%20Proposal/1.before.svg) / [`architecture/2.after.svg`](./A.5%20Architecture%20Proposal/2.after.svg) — Network architecture diagrams
+- Evidence screenshots: `./A.2 Triage/Evidences/`
 
 ---
 
