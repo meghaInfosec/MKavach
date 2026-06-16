@@ -138,7 +138,7 @@ As a financial services entity, Meridian FinServe's compromise of its Domain Con
 
 ## 9. Appendix / References
 
-- [`Triage/triage-wireshark.md`](./Triage/triage-wireshark.md) — GUI-based baseline triage (6 sections, 12 evidence images)
+- [`Triage/triage-wireshark.md`](./A.2 Triage/1.triage-wireshark.md) — GUI-based baseline triage (6 sections, 12 evidence images)
 - [`Triage/triage-tshark.md`](./Triage/triage-tshark.md) — CLI triage with 21 reference commands (19 evidence images)
 - [`Hypotheses.md`](./Hypotheses.md) — Hypothesis-driven deep dive (A.3); source of all timeline/evidence data above
 - [`iocs.csv`](./iocs.csv) — Full machine-readable IOC list
