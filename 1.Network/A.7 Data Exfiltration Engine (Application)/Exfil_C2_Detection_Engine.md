@@ -1,4 +1,4 @@
-# EXFIL / C2 Detection Engine v6
+# EXFIL / C2 Detection Engine
 
 ## Overview
 This script analyzes a PCAP file to detect **Command & Control (C2)** beaconing and **Data Exfiltration** activity, with special focus on patterns commonly seen in Cobalt Strike, Trickbot, and similar threats.
