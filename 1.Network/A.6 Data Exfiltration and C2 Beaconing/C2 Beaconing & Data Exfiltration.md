@@ -5,8 +5,7 @@
 
 **PCAP:** `2022-07-25-IcedID-with-Cobalt-Strike-carved.pcap`
 **Date of Analysis:** 2026-05-28
-**Analyst:** [handle]<br>
-*Note this pcap is different from the base pcap.
+**Analyst:** [handle]
 ---
 
 # Part 1 — Introduction to C2 Beaconing
