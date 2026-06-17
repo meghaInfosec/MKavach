@@ -33,7 +33,17 @@ The final success criteria mandates that an independent reader can fully reconst
 
 ---
 
-## 02. Repository Directory Structure
+## 02. Team & Responsibility Matrix
+
+| Team Member | Role | Workstream Ownership |
+| :--- | :--- | :--- |
+| **Megha Sharma** | Network Forensics Lead & Web App Co-Lead | Workstream A â€” Network Forensics âœ“ Complete Â· Workstream B â€” Web App Assessment (co-owner) |
+| **Vinay Kumar** | Web Application Security Lead | Workstream B â€” Web App Assessment (co-owner) |
+| **Kedar Pavaskar** | Threat Modelling Lead | Workstream C â€” Synthesis Â· Threat Modelling |
+
+---
+
+## 03. Repository Directory Structure
 
 Every phase of execution adheres strictly to this modular framework to ensure immediate reproducibility.
 
@@ -105,7 +115,7 @@ MKavach/
 
 ---
 
-## 03. Navigation — Workstream A: Network Forensics
+## 04. Navigation — Workstream A: Network Forensics
 
 > 72-hour PCAP triage · Hypothesis execution · IOC extraction · Architecture hardening
 
@@ -126,7 +136,7 @@ MKavach/
 
 ---
 
-## 04. Navigation — Workstream B: Web Application Assessment
+## 05. Navigation — Workstream B: Web Application Assessment
 
 > DVWA · OWASP Juice Shop · 5+ OWASP Top 10 categories · SAST before/after
 
@@ -146,7 +156,7 @@ MKavach/
 
 ---
 
-## 05. Navigation — Workstream C: Synthesis
+## 06. Navigation — Workstream C: Synthesis
 
 > Cross-surface STRIDE threat model · Defense-in-Depth · Executive Readout
 
@@ -161,7 +171,7 @@ MKavach/
 
 ---
 
-## 06. Supplementary
+## 07. Supplementary
 
 | Section | Deliverable | Link |
 | :---: | :--- | :--- |
@@ -172,7 +182,7 @@ MKavach/
 
 ---
 
-## 07. Tooling Matrix
+## 08. Tooling Matrix
 
 **Operating entirely under local hardware constraints using open-source utilities:**
 
@@ -186,7 +196,7 @@ MKavach/
 
 ---
 
-## 08. Unified Project Agile Timeline
+## 09. Unified Project Agile Timeline
 
 **Execution flows across 4 milestones bound to clear system exit parameters:**
 
