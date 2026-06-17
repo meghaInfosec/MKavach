@@ -4,7 +4,7 @@
 ![Futurense Technologies](https://img.shields.io/badge/Futurense%20Technologies-1A1A2E?style=for-the-badge)
 ![GenAI-Powered Cybersecurity](https://img.shields.io/badge/GenAI--Powered%20Cybersecurity-0057A8?style=for-the-badge)
 
-🎓 **PG Certificate Program — IIT Roorkee × Futurense Technologies**
+🎓 **PG Certificate Program — IIT Roorkee × Futurense Technologies** <br>
 Cyber Security Engagement · Cohort 2025
 
 ## 00. Overview & Architecture
