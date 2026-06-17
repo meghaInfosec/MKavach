@@ -3,9 +3,9 @@
 ## C2 Beaconing & Data Exfiltration Analysis
 ## IcedID + Cobalt Strike — Enterprise Intrusion Traffic Analysis
 
-**PCAP:** `2022-07-25-IcedID-with-Cobalt-Strike-carved.pcap`
-**Date of Analysis:** 2026-05-28
-**Analyst:** [handle]
+**PCAP:** `2022-07-25-IcedID-with-Cobalt-Strike-carved.pcap' <br>
+**Date of Analysis:** 2026-05-28 <br>
+**Analyst:** [handle] <br>
 
 ---
 
