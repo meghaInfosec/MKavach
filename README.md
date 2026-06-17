@@ -1,9 +1,24 @@
-# Project KaVacH: Two-Surface Security Assessment
+# 🛡️ Project KaVacH: Two-Surface Security Assessment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IIT%20Roorkee-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Futurense%20Technologies-1A1A2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GenAI--Powered%20Cybersecurity-0057A8?style=for-the-badge" />
+</p>
+
+<p align="center">
+🎓 <strong>PG Certificate Program — IIT Roorkee × Futurense Technologies</strong><br>
+Capstone Security Engagement · Cohort 2025
+</p>
 
 ## 00. Overview & Architecture
 
 Project KaVacH is a comprehensive, multi-surface security evaluation combining network forensics and web application security testing. The engagement is modeled against a real-world infrastructure scenario to identify attack vectors, validate architectural flaws, and build unified, data-backed remediation defenses.
 
+
+---
+
+## 00. Overview & Architecture
 ### Client Profile
 
 | Field | Detail |
