@@ -5,7 +5,7 @@
 ![GenAI-Powered Cybersecurity](https://img.shields.io/badge/GenAI--Powered%20Cybersecurity-0057A8?style=for-the-badge)
 
 🎓 **PG Certificate Program — IIT Roorkee × Futurense Technologies**
-Capstone Security Engagement · Cohort 2025
+Cyber Security Engagement · Cohort 2025
 
 ## 00. Overview & Architecture
 
