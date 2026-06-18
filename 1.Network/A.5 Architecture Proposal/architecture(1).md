@@ -1,6 +1,6 @@
 # A.5 — Architecture Proposal
-**Project KAVACH · Workstream A · Network Forensics**
-**Client:** Meridian FinServe Pvt. Ltd. *(Fictional NBFC)*
+**Project KAVACH · Workstream A · Network Forensics** <br>
+**Client:** Meridian FinServe Pvt. Ltd. *(Fictional NBFC)* <br>
 **PCAP:** `2021-05-26-Trickbot-infection-with-Cobalt-Strike.pcap`
 
 ---
