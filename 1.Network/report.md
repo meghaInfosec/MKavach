@@ -144,8 +144,7 @@ As a financial services entity, Meridian FinServe's compromise of its Domain Con
 - 📄 [`iocs.csv`](https://github.com/meghaInfosec/MKavach/blob/main/1.Network/A.4%20Indicator%20Extraction/iocs.csv) — Full machine-readable IOC list
 - 📄 [`1.before.mermaid`](https://github.com/meghaInfosec/MKavach/blob/main/1.Network/A.5%20Architecture%20Proposal/1.before.mermaid) — Network as-is, pre-analysis (Mermaid source)
 - 📄 [`2.after.mermaid`](https://github.com/meghaInfosec/MKavach/blob/main/1.Network/A.5%20Architecture%20Proposal/2.after.mermaid) — Proposed hardened architecture (Mermaid source)
-- Evidence screenshots: [`./A.2 Triage/Evidences/`](../A.2%20Triage/Evidences/)
-
+- 🖼️ [`Evidences/`](https://github.com/meghaInfosec/MKavach/tree/main/1.Network/A.2%20Triage/Evidences) — Evidence screenshots
 ---
 
 *Project KAVACH · Workstream A · Network Forensics Report · Futurense AI Clinic × IIT Roorkee · Confidential*
