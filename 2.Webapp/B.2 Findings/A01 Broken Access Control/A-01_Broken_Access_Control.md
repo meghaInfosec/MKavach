@@ -228,9 +228,7 @@ router.patch('/:id/reviews/:reviewId', verifyToken, async (req, res) => {
 })
 ```
 
----
-
-### What changed and why
+## What changed and why
 
 | S.No | Change | Why |
 |------|--------|-----|
@@ -239,47 +237,6 @@ router.patch('/:id/reviews/:reviewId', verifyToken, async (req, res) => {
 | 3 | `verifyToken` middleware added to all review routes | Every mutating request must pass authentication before reaching business logic |
 | 4 | Ownership check added to edit route | Authorization must verify the resource belongs to the requester, not just that they are logged in |
 | 5 | `process.env.JWT_SECRET` used for signing | Secret never hardcoded — stored in environment config |
-
----
-
-### Input validation layer (bonus hardening)
-
-```js
-const { body, validationResult } = require('express-validator')
-
-router.put('/:id/reviews',
-  verifyToken,
-  body('message').isString().trim().isLength({ min: 1, max: 500 }),
-  async (req, res) => {
-    const errors = validationResult(req)
-    if (!errors.isEmpty()) {
-      return res.status(400).json({ errors: errors.array() })
-    }
-    // ... rest of handler
-  }
-)
-```
-
----
-
-### Security test — verify the patch works
-
-```bash
-# 1. Get a valid token for user-A
-TOKEN=$(curl -s -X POST http://localhost:3000/rest/user/login \
-  -H "Content-Type: application/json" \
-  -d '{"email":"userA@test.com","password":"pass"}' \
-  | jq -r '.authentication.token')
-
-# 2. Attempt to post a review with a forged author field
-curl -X PUT http://localhost:3000/rest/products/1/reviews \
-  -H "Authorization: Bearer $TOKEN" \
-  -H "Content-Type: application/json" \
-  -d '{"message":"forged","author":"victim@juice-sh.op"}'
-
-# Expected response — author field ignored, review posted as userA@test.com
-# {"status":"success","author":"userA@test.com"}
-```
 
 ---
 
