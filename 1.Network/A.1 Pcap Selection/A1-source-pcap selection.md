@@ -1,7 +1,7 @@
 ## A.1 Source PCAP Selection
 
-**Capture:** `2021-05-26-Trickbot-infection-with-Cobalt-Strike.pcap`
-**Source:** Malware-Traffic-Analysis.net, published 26 May 2021 by Brad Duncan
+**Capture:** `2021-05-26-Trickbot-infection-with-Cobalt-Strike.pcap`<br>
+**Source:** Malware-Traffic-Analysis.net, published 26 May 2021 by Brad Duncan <br>
 **Hash:** *(to be filled in from the downloaded file — run `sha256sum` and paste the value here for the reproducibility record)*
 
 ### Why this capture qualifies
