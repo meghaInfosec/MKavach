@@ -240,7 +240,4 @@ router.patch('/:id/reviews/:reviewId', verifyToken, async (req, res) => {
 
 ---
 
-*Patch targets OWASP Juice Shop architecture (Node.js/Express/NeDB).
-Adapt `db.reviews` calls to your ORM/database driver as needed.*
-
 *This writeup is for educational purposes only. Practice only on intentionally vulnerable applications like OWASP Juice Shop.*
