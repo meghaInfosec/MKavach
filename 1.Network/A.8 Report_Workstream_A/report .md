@@ -141,7 +141,8 @@ As a financial services entity, Meridian FinServe's compromise of its Domain Con
 - [`Triage/2.triage-tshark.md`](../A.2%20Triage/2.%20triage-tshark.md) — CLI triage with 21 reference commands (19 evidence images)
 - [`Hypotheses.md`](../A.3%20Hypothesis-Driven%20Deep%20Dive/Hypotheses.md) — Hypothesis-driven deep dive (A.3); source of all timeline/evidence data above
 - [`iocs.csv`](../A.4%20Indicator%20Extraction/iocs.csv) — Full machine-readable IOC list
-- [`1.before.svg`](../A.5%20Architecture%20Proposal/1.before.svg) / [`2.after.svg`](../A.5%20Architecture%20Proposal/2.after.svg) — Network architecture diagrams
+- 📄 [`1.before.mermaid`](https://github.com/meghaInfosec/MKavach/blob/main/1.Network/A.5%20Architecture%20Proposal/1.before.mermaid) — Network as-is, pre-analysis (Mermaid source)
+📄 [`2.after.mermaid`](https://github.com/meghaInfosec/MKavach/blob/main/1.Network/A.5%20Architecture%20Proposal/2.after.mermaid) — Proposed hardened architecture (Mermaid source)
 - Evidence screenshots: [`./A.2 Triage/Evidences/`](../A.2%20Triage/Evidences/)
 
 ---
