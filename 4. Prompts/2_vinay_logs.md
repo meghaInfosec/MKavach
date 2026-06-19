@@ -1,5 +1,5 @@
 # Project KAVACH — Individual LLM Prompt Log
-**Member:** Vinay Kumar (`vinay22knit`)
+**Member:** Vinay Kumar (`vinayhereon`)
 **Role:** Web Application Security Lead · Workstream B
 **Workstreams covered:** B (all) · A (supporting)
 **Tools used:** Claude (Sonnet 4.6) · ChatGPT · Gemini (failed attempts documented)
