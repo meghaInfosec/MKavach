@@ -114,11 +114,7 @@ The Joint Threat Model treated Meridian FinServe as one system, not two. Attack 
 ### Fixed Iteration Boundaries Without Mid-Sprint Adjustment
 The engagement was designed around one-week iterations, but mid-sprint scope expansion — particularly adding additional PCAP corroboration in Iteration 2 and extending SAST patch coverage to all three DVWA security levels — pushed work beyond the planned boundaries. Future engagements benefit from a lightweight mid-sprint check to redistribute scope before it accumulates at the end.
 
-### Writing Findings Before Testing All Payload Variants
-In Workstream B, some initial finding drafts were written before all payload variants were tested against the running application. This created a minor rework cycle when later testing revealed additional vectors. The cleaner workflow is to complete all payload testing first, document results, then write the finding — not to write as you test.
 
-### Deferring Architecture Diagrams to the End
-The Mermaid before/after network diagrams (A.5) were produced after the analysis was complete rather than sketched at the start of Iteration 2. Having even a rough architecture map before deep-dive analysis would have made the lateral movement finding (frame 10799) easier to contextualise in real time — the flat `/24` subnet was discovered as a finding rather than known as a precondition.
 
 ---
 
