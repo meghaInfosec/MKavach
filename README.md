@@ -186,8 +186,8 @@ Every deliverable is directly linked below. Click any file to navigate to it in 
 | **Interception & Probing** | Burp Suite Community, curl | Web request interception, proxy modification, and manual injection testing |
 | **Static Analysis** | Semgrep CE 1.163.0 | Detection of hardcoded flaws and insecure code paths via static review |
 | **Encoding & Crypto Analysis** | CyberChef | Decoding, encoding, hash analysis, and cryptographic challenge solving |
-| **Modeling & Visualization** | Mermaid, Draw.io | Generating architecture diagrams, before-vs-after diffs, and timeline layouts |
-| **AI-Assisted Analysis** | MCP Server (GitHub Copilot), Claude | LLM-assisted forensic analysis, code generation, and threat modelling prompts |
+| **Modeling & Visualization** | Mermaid| Generating architecture diagrams, before-vs-after diffs, and timeline layouts |
+| **AI-Assisted Analysis** | MCP Server (GitHub Copilot), Claude, grok, perplexity, Gemini, chatgpt | LLM-assisted forensic analysis, code generation, and threat modelling prompts |
 
 ---
 
